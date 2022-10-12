@@ -1,0 +1,4 @@
+1. Hex to ASCII - scorpion
+2. base64 - scribble
+3. Binary to ASCII - securely
+4. Binary to ASCII then base64 - lollipop
