@@ -1,0 +1,7 @@
+1. 14337
+2. 64
+3. 0x003a33
+4. A4:81:53:B4:CF
+5. 0x897b
+
+Hints: 1,2, and 4 Aircrack; 3 and 5 Wireshark, 5 depends on 4
