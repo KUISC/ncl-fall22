@@ -1,0 +1,8 @@
+1. myraptor
+2. 169.139.243.218
+3. 56.13.188.38
+4. 30.167.206.91
+5. harvey
+6. 30.167.206.91
+
+Hints: This is a short log, so ctrl+f/cmd+f is suitable. Challenge yourself by using grep

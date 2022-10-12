@@ -1,0 +1,9 @@
+1. bitcoin
+2. $239.50
+3. Coinbase
+4. b1gbird@gmail.com
+5. 5274cfba585a4b5681527a37f95c7634042 8916bb7480cef6c545f0a28dcd2d7
+6. 0.22616302
+7. 18z6bTFjxkXCmhfp8YBetR2wgmoVjXGJZz
+
+Hints: There is a SQLite analyzer in Kali. Use it and follow the link. blockchain.info

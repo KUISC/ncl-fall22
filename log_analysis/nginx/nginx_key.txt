@@ -1,0 +1,11 @@
+1. 47
+2. 19
+3. 38
+4. 186.64.69.141
+5.  2.1
+6. 61.161.130.241
+7. 31
+8. GET
+9. 6
+
+Hints: Most can be solved using a combination of cat, grep, cut, sort, uniq, and wc. Awk or bash could also be used
