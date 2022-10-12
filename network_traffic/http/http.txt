@@ -1,0 +1,5 @@
+1. What Linux tool was used to execute a file download?
+2. What is the name of the web server software that handled the request?
+3. What IP address initiated request?
+4. What is the IP address of the server?
+5. What is the MD5 sum of the file downloaded?
