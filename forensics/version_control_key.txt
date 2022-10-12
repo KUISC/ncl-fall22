@@ -1,0 +1,6 @@
+Hints: log to see commit history, show to see a specific commit, branch to see branches, checkout to change branches ;)
+
+1. gpeterson@mpd.hacknet.cityinthe.cloud
+2. SKY-LRHX-4910
+3. Facebook
+4. waffles85

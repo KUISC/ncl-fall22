@@ -1,0 +1,4 @@
+1. What is the email of the employee that was compromised?
+2. Each employee is assigned a flag. What is the breached employee's flag?
+3. Another account may have been compromised. What is the service provider of that account?
+4. What was the password of the compromised account?
